@@ -1,0 +1,4 @@
+- Bit stands for Binary Digit
+- Carries 2 states, but if we had a different information carrier (Qubit) we could carry more
+- Carry the least amount of information possible
+- Physical bits are holes burnt into optical discs

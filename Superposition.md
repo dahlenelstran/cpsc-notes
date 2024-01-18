@@ -1,0 +1,1 @@
+- A quantum system can exist in a superposition of multiple states simultaneously

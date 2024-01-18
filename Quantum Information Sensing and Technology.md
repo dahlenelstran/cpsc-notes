@@ -1,0 +1,5 @@
+ - The future of QIST: 
+	 - [[Quantum Computing]] at room temperature
+	 - unhackable [[Quantum Networks]]
+	 - practical [[Quantum Sensing]] for biomedical imaging
+	 - scalable [[Quantum Simulation]]

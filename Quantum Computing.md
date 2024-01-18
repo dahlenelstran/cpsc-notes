@@ -1,0 +1,16 @@
+- This enables exponential speedup compared to classical computers
+- Qubits are the basic units of information that represent quantum states, like bits in classical computers
+- Total parts include: qubits, control electronics, cryogenic systems, and software stack
+- The future of quantum computing:
+	- more qubit control, error correction implementation, quantum algorithms development, quantum software tools availability
+- Comparing *Classical* vs. **Quantum** Computers:
+	- Fundamental Unit: *[[Bit]]* vs. **Qubit**
+	- Gates: *Logic Gates* vs. **Unitary Gates**
+	- Gates Reversible: *Sometimes* vs. **Always**
+	- Universal Gate Set: *NAND* vs. **H, T, CNOT**
+	- Programming Language Example: *Verlog* vs. **Open QASM**
+	- Algebra: *Boolean* vs. Linear
+	- Error Correcting Code Example: *Repetition Code* vs. **Shor Code**
+	- Complexity Class: *P* vs. **BQP**
+	- Strong Church-Turing Thesis: *Supports* vs. **Possibly violates**
+- 
