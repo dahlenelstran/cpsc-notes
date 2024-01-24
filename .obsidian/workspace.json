@@ -4,103 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "24e8a162fddcbe11",
+        "id": "5119ab470cd9258c",
         "type": "tabs",
         "children": [
           {
-            "id": "54aa7d902c112c60",
+            "id": "e1cbaf9b34df28ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History of Quantum Computers.md",
+                "file": "Bit.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "bb680fd33a969607",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quantum Computing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa3268b65a8132ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quantum Communication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5799c050217b0c41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quantum Sensing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0e25a356c58ecdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quantum Simulation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3ff89316e08d9fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quantum Networks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c0970de3659d1df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quantum Computing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70c57e184a45aab1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Bit.md"
+              }
             }
           }
         ]
@@ -223,19 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70c57e184a45aab1",
+  "active": "e1cbaf9b34df28ec",
   "lastOpenFiles": [
-    "Superposition.md",
-    "Quantum Networks.md",
-    "Quantum Information Sensing and Technology.md",
-    "Quantum Entanglement.md",
+    "History of Quantum Computers.md",
     "Quantum Computing.md",
     "Quantum Communication.md",
-    "History of Quantum Computers.md",
-    "Bit.md",
-    "Quantum Mechanics.md",
     "Quantum Sensing.md",
     "Quantum Simulation.md",
+    "Quantum Networks.md",
+    "Superposition.md",
+    "Quantum Information Sensing and Technology.md",
+    "Quantum Entanglement.md",
+    "Bit.md",
+    "Quantum Mechanics.md",
     "Welcome.md"
   ]
 }
