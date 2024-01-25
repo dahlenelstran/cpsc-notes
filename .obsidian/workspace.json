@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e1cbaf9b34df28ec",
+            "id": "6e84a49ae1633d52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Superposition.md",
+                "file": "Computation Complexity.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Superposition.md",
+                "file": "Computation Complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Superposition.md",
+                "file": "Computation Complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Superposition.md"
+                "file": "Computation Complexity.md"
               }
             }
           }
@@ -146,8 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1cbaf9b34df28ec",
+  "active": "6e84a49ae1633d52",
   "lastOpenFiles": [
+    "Turing Machines.md",
+    "Quantum Information Sensing and Technology.md",
+    "Quantum Information Science and Technology.md",
+    "Computation Complexity.md",
+    "Superposition.md",
     "Bit.md",
     "History of Quantum Computers.md",
     "Quantum Computing.md",
@@ -155,8 +160,6 @@
     "Quantum Sensing.md",
     "Quantum Simulation.md",
     "Quantum Networks.md",
-    "Superposition.md",
-    "Quantum Information Sensing and Technology.md",
     "Quantum Entanglement.md",
     "Quantum Mechanics.md",
     "Welcome.md"
