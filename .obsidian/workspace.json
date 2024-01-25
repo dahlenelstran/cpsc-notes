@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bit.md",
+                "file": "Superposition.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bit.md",
+                "file": "Superposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bit.md",
+                "file": "Superposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bit.md"
+                "file": "Superposition.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "e1cbaf9b34df28ec",
   "lastOpenFiles": [
+    "Bit.md",
     "History of Quantum Computers.md",
     "Quantum Computing.md",
     "Quantum Communication.md",
@@ -157,7 +158,6 @@
     "Superposition.md",
     "Quantum Information Sensing and Technology.md",
     "Quantum Entanglement.md",
-    "Bit.md",
     "Quantum Mechanics.md",
     "Welcome.md"
   ]
