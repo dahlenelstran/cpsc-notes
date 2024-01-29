@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd57ccfd878ba8b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classical Computers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computation Complexity.md",
+                "file": "Classical Computers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computation Complexity.md",
+                "file": "Classical Computers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computation Complexity.md"
+                "file": "Classical Computers.md"
               }
             }
           }
@@ -146,12 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e84a49ae1633d52",
+  "active": "cd57ccfd878ba8b0",
   "lastOpenFiles": [
+    "Computation Complexity.md",
+    "Classical Computers.md",
     "Turing Machines.md",
     "Quantum Information Sensing and Technology.md",
     "Quantum Information Science and Technology.md",
-    "Computation Complexity.md",
     "Superposition.md",
     "Bit.md",
     "History of Quantum Computers.md",
