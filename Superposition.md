@@ -1,1 +1,13 @@
-- A quantum system can exist in a superposition of multiple states simultaneously
+- A quantum system can exist in a superposition of multiple states simultaneously.
+- We can visualize these distinct qubit^[[[Qubit]]] states as the north and south poles of a sphere of radius $1$ called the *Bloch Sphere*. ==INSERT IMAGE HERE==
+	- By convention, x-axis comes out of the page, the y-axis points to the side, and the z-axis points up. Because the Bloch sphere has a radius of $1$, so that $|0\rangle$ is equivalent to $(0,0,1)$ and $|1\rangle$ is $(0,0,-1)$
+	- Anywhere on the Bloch Sphere represents a superposition.
+		- Here is a state that is equal parts both states: $\frac{1}{\sqrt{2}}(|0\rangle + |1\rangle)$
+- Specific States:
+	- $|+\rangle = \frac{1}{\sqrt2}(|0\rangle+|1\rangle)$
+	- $|-\rangle = \frac{1}{\sqrt2}(|0\rangle-|1\rangle)$
+	- $|i\rangle = \frac{1}{\sqrt2}(|0\rangle+i|1\rangle)$
+	- $|-i\rangle = \frac{1}{\sqrt2}(|0\rangle-i|1\rangle)$
+- Superpositions are not restricted to the equator, but they can favor either state by being in the northern or southern equator.
+- A qubit can be any point on the Bloch Sphere
+- 

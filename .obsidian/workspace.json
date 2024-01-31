@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5119ab470cd9258c",
+        "id": "0ddd95ec36377f0f",
         "type": "tabs",
         "children": [
           {
-            "id": "6e84a49ae1633d52",
+            "id": "760caf0defd2c5ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computation Complexity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd57ccfd878ba8b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classical Computers.md",
+                "file": "Superposition.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "88ba52c1f6d76a4a",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classical Computers.md",
+                "file": "Superposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classical Computers.md",
+                "file": "Superposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classical Computers.md"
+                "file": "Superposition.md"
               }
             }
           }
@@ -159,14 +147,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd57ccfd878ba8b0",
+  "floating": {
+    "id": "581bb39039a19b6f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a30293bea24ddc12",
+        "type": "window",
+        "children": [
+          {
+            "id": "3a2bc268c163ee1c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fe5380b3f7f679e3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Qubit.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 7,
+        "y": 7,
+        "width": 671,
+        "height": 706,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "760caf0defd2c5ec",
   "lastOpenFiles": [
-    "Computation Complexity.md",
-    "Classical Computers.md",
+    "Qubit.md",
+    "Superposition.md",
+    "Church Turing Thesis.md",
     "Turing Machines.md",
+    "Classical Computers.md",
+    "Computation Complexity.md",
     "Quantum Information Sensing and Technology.md",
     "Quantum Information Science and Technology.md",
-    "Superposition.md",
     "Bit.md",
     "History of Quantum Computers.md",
     "Quantum Computing.md",

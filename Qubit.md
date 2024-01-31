@@ -1,0 +1,1 @@
+- Like a classical but, it can take two values, $0$ or $1$. Using **bra-ket notation** or **Dirac Notation** from quantum mechanics, we write $0$ or $1$ enclosed between a vertical bar and an angle bracket called a **ket**: $|0\rangle$ or $|1\rangle$.
